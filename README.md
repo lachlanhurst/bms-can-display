@@ -28,7 +28,9 @@ These libraries will need to be installed through the Arduino IDE
 ## Setup
 Refer to [Balance Buddy documentation](https://github.com/Mitchlol/balance_buddy/blob/main/README.md) for wiring details.
 
-
+## Case
+CAD/STLs for a case to hold these electronics can be [found here](./cad).
+![BMS CAN Case](docs/case_photo_2.png)
 
 ## Acknowledgements
 - Mitchlol's Balance Buddy 
